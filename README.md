@@ -7,6 +7,9 @@ Graph Theory Reinhard Diestel Sixth edition 2024 Free Preview(https://diestel-gr
 ### The Hundred-Page Language Models
 The Hundred-Page Language Models Andriy Burkov 2025(https://thelmbook.com/)
 
+### The Hundred-Page Machine Learning
+The Hundred-Page Machine Learning Andriy Burkov 2019(https://themlbook.com/)
+
 ### Install necessary libraries
 ```bash
 pip install requests pypdf
@@ -26,6 +29,11 @@ python merger-Graph-Theory.py
 
 # merge The Hundred-Page Language Models
 python merger-thehplm.py
+
+# OR
+
+# merge The Hundred-Page Machine Learning
+python merger-thehpml.py
 ```
 
 
